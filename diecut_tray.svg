@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+  <style>
+        .cut2 { stroke: blue; stroke-width: 0.1;  fill: none;}
+        .fold { stroke: green; stroke-width: 0.1; fill: none;}
+        .cut { stroke: red; stroke-width: 0.1;  fill: none;}
+        .label { font-family: Arial, sans-serif; font-size: 12px; }
+    </style>
+  <g transform="translate(105.0, 148.5)">
+    <path d="M -30.0,-37.5 L 30.0,-37.5 L 30.0,37.5 L -30.0,37.5 Z" class="fold"/>
+    <path d="M -29.6,-37.1 L 29.6,-37.1 L 29.6,37.1 L -29.6,37.1 Z" class="cut2" transform="rotate(90, 0, 0)"/>
+    <path d="M -30.0,-37.5 L -30.0,-67.5" class="fold"/>
+    <path d="M -30.0,-67.5 L 30.0,-67.5" class="fold"/>
+    <path d="M 30.0,-67.5 L 30.0,-37.5" class="fold"/>
+    <path d="M -29.9,-67.7 L 29.9,-67.7" class="fold"/>
+    <path d="M -29.4,-97.60000000000001 L 29.4,-97.60000000000001" class="fold"/>
+    <path d="M 60.0,-37.5 L 60.0,37.5" class="fold"/>
+    <path d="M 60.2,-37.4 L 60.2,37.4" class="fold"/>
+    <path d="M 90.10000000000001,-37.4 L 90.10000000000001,37.4" class="fold"/>
+    <path d="M 60.2,-37.4 L 90.10000000000001,-37.4" class="fold"/>
+    <path d="M 60.2,37.4 L 90.10000000000001,37.4" class="fold"/>
+    <path d="M -30.0,-37.5 L -30.0,-67.5" class="fold" transform="rotate(180, 0, 0)"/>
+    <path d="M -30.0,-67.5 L 30.0,-67.5" class="fold" transform="rotate(180, 0, 0)"/>
+    <path d="M 30.0,-67.5 L 30.0,-37.5" class="fold" transform="rotate(180, 0, 0)"/>
+    <path d="M -29.9,-67.7 L 29.9,-67.7" class="fold" transform="rotate(180, 0, 0)"/>
+    <path d="M -29.4,-97.60000000000001 L 29.4,-97.60000000000001" class="fold" transform="rotate(180, 0, 0)"/>
+    <path d="M 60.0,-37.5 L 60.0,37.5" class="fold" transform="rotate(180, 0, 0)"/>
+    <path d="M 60.2,-37.4 L 60.2,37.4" class="fold" transform="rotate(180, 0, 0)"/>
+    <path d="M 90.10000000000001,-37.4 L 90.10000000000001,37.4" class="fold" transform="rotate(180, 0, 0)"/>
+    <path d="M 60.2,-37.4 L 90.10000000000001,-37.4" class="fold" transform="rotate(180, 0, 0)"/>
+    <path d="M 60.2,37.4 L 90.10000000000001,37.4" class="fold" transform="rotate(180, 0, 0)"/>
+    <path d="M -30.0,-67.5 L -29.9,-67.7" class="cut"/>
+    <path d="M -29.9,-67.7 L -29.4,-97.60000000000001" class="cut"/>
+    <path d="M -29.4,-97.60000000000001 L -26.4,-105.10000000000001" class="cut"/>
+    <path d="M -26.4,-105.10000000000001 L 26.4,-105.10000000000001" class="cut"/>
+    <path d="M 26.4,-105.10000000000001 L 29.4,-97.60000000000001" class="cut"/>
+    <path d="M 29.4,-97.60000000000001 L 29.9,-67.7" class="cut"/>
+    <path d="M 29.9,-67.7 L 30.0,-67.5" class="cut"/>
+    <path d="M 30.0,-67.5 L 60.0,-64.5" class="cut"/>
+    <path d="M 60.0,-64.5 L 60.0,-40.5" class="cut"/>
+    <path d="M 60.0,-40.5 L 30.0,-37.5" class="cut"/>
+    <path d="M 60.0,-37.5 L 60.2,-37.4" class="cut"/>
+    <path d="M 60.2,-37.4 L 63.2,-64.5" class="cut"/>
+    <path d="M 63.2,-64.5 L 87.10000000000001,-64.5" class="cut"/>
+    <path d="M 87.10000000000001,-64.5 L 90.10000000000001,-37.4" class="cut"/>
+    <path d="M 90.10000000000001,-37.4 L 96.10000000000001,-34.4" class="cut"/>
+    <path d="M 96.10000000000001,-34.4 L 96.10000000000001,34.4" class="cut"/>
+    <path d="M 96.10000000000001,34.4 L 90.10000000000001,37.4" class="cut"/>
+    <path d="M 90.10000000000001,37.4 L 87.10000000000001,64.5" class="cut"/>
+    <path d="M 87.10000000000001,64.5 L 63.2,64.5" class="cut"/>
+    <path d="M 63.2,64.5 L 60.2,37.4" class="cut"/>
+    <path d="M 60.2,37.4 L 60.0,37.5" class="cut"/>
+    <path d="M 30.0,37.5 L 60.0,40.5" class="cut"/>
+    <path d="M 60.0,40.5 L 60.0,64.5" class="cut"/>
+    <path d="M 60.0,64.5 L 30.0,67.5" class="cut"/>
+    <path d="M 30.0,-37.5 L 60.0,-37.5" class="cut"/>
+    <path d="M 30.0,37.5 L 60.0,37.5" class="cut"/>
+    <path d="M -30.0,-67.5 L -29.9,-67.7" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M -29.9,-67.7 L -29.4,-97.60000000000001" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M -29.4,-97.60000000000001 L -26.4,-105.10000000000001" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M -26.4,-105.10000000000001 L 26.4,-105.10000000000001" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 26.4,-105.10000000000001 L 29.4,-97.60000000000001" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 29.4,-97.60000000000001 L 29.9,-67.7" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 29.9,-67.7 L 30.0,-67.5" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 30.0,-67.5 L 60.0,-64.5" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 60.0,-64.5 L 60.0,-40.5" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 60.0,-40.5 L 30.0,-37.5" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 60.0,-37.5 L 60.2,-37.4" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 60.2,-37.4 L 63.2,-64.5" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 63.2,-64.5 L 87.10000000000001,-64.5" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 87.10000000000001,-64.5 L 90.10000000000001,-37.4" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 90.10000000000001,-37.4 L 96.10000000000001,-34.4" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 96.10000000000001,-34.4 L 96.10000000000001,34.4" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 96.10000000000001,34.4 L 90.10000000000001,37.4" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 90.10000000000001,37.4 L 87.10000000000001,64.5" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 87.10000000000001,64.5 L 63.2,64.5" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 63.2,64.5 L 60.2,37.4" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 60.2,37.4 L 60.0,37.5" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 30.0,37.5 L 60.0,40.5" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 60.0,40.5 L 60.0,64.5" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 60.0,64.5 L 30.0,67.5" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 30.0,-37.5 L 60.0,-37.5" class="cut" transform="rotate(180, 0, 0)"/>
+    <path d="M 30.0,37.5 L 60.0,37.5" class="cut" transform="rotate(180, 0, 0)"/>
+  </g>
+</svg>
